@@ -136,7 +136,7 @@ Developed and implemented a web scraping project using Python and various librar
     <p align="center">
       <a href="https://www.linkedin.com/in/dhruv-gujar-792145246/" target="_blank" rel="noopener noreferrer"><img
           src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"></a>
-      <a href="https://www.instagram.com/dhurv.b.gujar/" target="_blank" rel="noopener noreferrer"><img
+      <a href="https://www.instagram.com/dhruv.b.gujar/" target="_blank" rel="noopener noreferrer"><img
           src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
       <a href="mailto:dhruv13092@gmail.com" target="_blank" rel="noopener noreferrer"><img
           src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"></a>
